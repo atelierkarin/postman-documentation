@@ -161,3 +161,4 @@ cython_debug/
 
 collections/
 **/to_excel.py
+.DS_Store
