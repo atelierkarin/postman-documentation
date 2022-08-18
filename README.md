@@ -1,0 +1,4 @@
+# POSTMAN CollectionをMARKDOWNドキュメントの変換ツール
+
+仕事上に必要だったので作成しました。
+POSTMANのテストケースを概要的なものをMARKDOWNドキュメント化です。
